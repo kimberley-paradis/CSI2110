@@ -1,0 +1,27 @@
+;; Object datastructures/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "datastructures/"
+  :tables (list 
+   (semanticdb-table "LinkedBinaryTree.java"
+    :major-mode 'jde-mode
+    :tags '(("net.datastructures" package nil nil [1 28]) ("java.util.Iterator" include nil nil [29 55]))
+    :file "LinkedBinaryTree.java"
+    :pointmax 11242
+    )
+   (semanticdb-table "PositionList.java"
+    :major-mode 'jde-mode
+    :tags '(("net.datastructures" package nil nil [1 28]) ("java.util.Iterator" include nil nil [29 55]))
+    :file "PositionList.java"
+    :pointmax 2061
+    )
+   (semanticdb-table "EulerTour.java"
+    :major-mode 'jde-mode
+    :tags '(("net.datastructures" package nil nil [1 28]) ("net.datastructures.Position" include nil nil [29 64]) ("net.datastructures.BinaryTree" include nil nil [65 102]))
+    :file "EulerTour.java"
+    :pointmax 1651
+    )
+   )
+  :file "semantic.cache"
+  :semantic-tag-version "2.0pre3"
+  :semanticdb-version "2.0pre3"
+  )
